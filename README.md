@@ -1,21 +1,24 @@
 # 🚧 Work in progress 🚧
 
-# Awesome Videos
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/moonraker22/awesome-videos/assets/Icon-video.png" width="200" height="auto">
+<br/>
+<h1 style="background: #670CCF;
+background: linear-gradient(to top, #670CCF 0%, #442657100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;font-size:4em;text-shadow: 1px 3px 3px rgba(246, 0, 0, 0.69);">Awesome Videos</h1>
+<br/>
+    <img src="https://github.com/moonraker22/awesome-videos/raw/main/assets/Icon-video.png" width="200" height="auto">
     <br>
     <br>
 
 </div>
 
-## An awesome list of videos to learn some stuff
+## An awesome list of videos I found useful
 
 <!-- Table of Contents -->
 
 - [🚧 Work in progress 🚧](#-work-in-progress-)
-- [Awesome Videos](#awesome-videos)
-  - [An awesome list of videos to learn some stuff](#an-awesome-list-of-videos-to-learn-some-stuff)
+  - [An awesome list of videos I found useful](#an-awesome-list-of-videos-i-found-useful)
   - [React](#react)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
@@ -23,18 +26,21 @@
   - [NodeJS](#nodejs)
   - [Python](#python)
   - [Docker](#docker)
+  - [Firebase](#firebase)
   - [Git](#git)
   - [VsCode](#vscode)
   - [Linux](#linux)
   - [Three Js/React Three Fiber](#three-jsreact-three-fiber)
+  - [Shaders - GLSL](#shaders---glsl)
+  - [Blender](#blender)
   - [Conference Talks](#conference-talks)
   - [ML/AI](#mlai)
   - [Interview Prep](#interview-prep)
 
 ## React
 
-- [React Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) - React Hooks by freeCodeCamp.org
 - [State Management](https://www.youtube.com/watch?v=eVfw4pRDUIY) - State Management for React: Jotai From Beginners to Masters
+- [React State Management – Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA) - React State Management – Intermediate JavaScript Course
 - [Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0) - Livestream with Kent: React Patterns
 - [React & Django TUTORIAL Integration // REACTify Django](https://www.youtube.com/watch?v=AHhQRHE8IR8) - React & Django TUTORIAL Integration // REACTify Django
 - [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww) - React.js Hooks Crash Course
@@ -44,6 +50,7 @@
 - [You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=56_OUG-0wgI) - You're Doing React Hooks Wrong, Probably
 - [React Server Components with Dan Abramov, Joe Savona, and Kent C. Dodds](https://www.youtube.com/watch?v=h7tur48JSaw&t=10s) - React Server Components with Dan Abramov, Joe Savona, and Kent C. Dodds
 - [React Router 6.4 - Ryan Florence](https://www.youtube.com/watch?v=kGtHwLzmMBQ) - React Router 6.4 - Ryan Florence
+- [React Router 6.4 - Getting Started](https://www.youtube.com/watch?v=L2kzUg6IzxM) - React Router 6.4 - Getting Started
 
 ## JavaScript
 
@@ -52,7 +59,6 @@
 - [JS Code Structure Moving Beyond Beginner](https://www.youtube.com/watch?v=exiC1Qsv5mc) - JS Code Structure Moving Beyond Beginner
 - [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4) - Object Oriented JavaScript
 - [Learn JavaScript Touch Events In 17 Minutes](https://www.youtube.com/watch?v=TaPdgj8mucI) - Learn JavaScript Touch Events In 17 Minutes
-- [The FASTEST Way to become a Software Developer](https://www.youtube.com/watch?v=4MkPTWZGkm0&t=0s) - The FASTEST Way to become a Software Developer
 - [JavaScript Pattern: Using Custom Events](https://www.youtube.com/watch?v=KuEVmf-Fxk0) - JavaScript Pattern: Using Custom Events
 - [New Features Playlist](https://www.youtube.com/playlist?list=PLTo9PCskHpbHA7ZXdB4xxz6ty4AWRZElB) - New Features Playlist
 - [Fundamentals Playlist](https://www.youtube.com/playlist?list=PLTo9PCskHpbFN8rndGupKHTY980NRDAr0) - Fundamentals Playlist
@@ -98,6 +104,26 @@
 
 ## Docker
 
+## Firebase
+
+- [Getting started with Firebase Hosting (and GitHub Actions!)](https://www.youtube.com/watch?v=P0x0LmiknJc) - Getting started with Firebase Hosting (and GitHub Actions!)
+- [How To Build A Google Drive Clone With Firebase](https://www.youtube.com/watch?v=6XTRElVAZ9Y) - How To Build A Google Drive Clone With Firebase
+- [Shipping production web apps on Firebase Hosting](https://www.youtube.com/watch?v=P3jXxNBtueQ) - Shipping production web apps on Firebase Hosting
+- [Full Stack React Chat App Tutorial (Firebase v9 + ChakraUI + NextJS)](https://www.youtube.com/watch?v=i8YFPPx_BYw) - Full Stack React Chat App Tutorial (Firebase v9 + ChakraUI + NextJS)
+- [Security Rules deep dive](https://www.youtube.com/watch?v=TglPc74M3DM) - Security Rules deep dive
+- [How to set up React with Firebase/Firestore v9 - Playlist](https://www.youtube.com/playlist?list=PLqFvlDFoiZ-2SAX7YXCYtb28K4IooCIlS) - How to set up React with Firebase/Firestore v9 - Playlist
+- [React Authentication Crash Course (with Firebase v9) - Playlist](https://www.youtube.com/playlist?list=PLqFvlDFoiZ-3HoHuYfqc4SrId1JbrtTnA) - React Authentication Crash Course (with Firebase v9) - Playlist
+- [React Firebase Authentication - Protected Routes - Context - (Firebase v9) 🔥](https://www.youtube.com/watch?v=x62aBvnRCKw) - React Firebase Authentication - Protected Routes - Context - (Firebase v9) 🔥
+- [Shipping production web apps on Firebase Hosting](https://www.youtube.com/watch?v=P3jXxNBtueQ) - Shipping production web apps on Firebase Hosting
+- [Unit testing security rules with the Firebase Emulator Suite](https://www.youtube.com/watch?v=VDulvfBpzZE) - Unit testing security rules with the Firebase Emulator Suite
+- [Intermediate topics in Firebase Security Rules - Firecasts](https://www.youtube.com/watch?v=8Mzb9zmnbJs) - Intermediate topics in Firebase Security Rules - Firecasts
+- [Firestore Security Rules - How to Hack a Firebase App](https://www.youtube.com/watch?v=b7PUm7LmAOw) - Firestore Security Rules - How to Hack a Firebase App
+- [Firestore Security Rules Pro Tips (Save 90% Time) | Advanced Firebase/Firestore](https://www.youtube.com/watch?v=oHyTDT3V65U) Firestore Security Rules Pro Tips (Save 90% Time) | Advanced Firebase/Firestore
+- [How To Backup Firestore? | Advanced Firebase/Firestore](https://www.youtube.com/watch?v=ZNT_9d0gAFQ) How To Backup Firestore? | Advanced Firebase/Firestore
+- [100 Firebase Tips, Tricks, and Screw-ups](https://www.youtube.com/watch?v=iWEgpdVSZyg&list=PLX7EaSeYAsa7NghwDAAUAWNWfMx-X5z9O&index=38) 100 Firebase Tips, Tricks, and Screw-ups
+- [Build an expense tracker web app with Firebase and React](https://www.youtube.com/watch?v=q2RZOiUD5E0) Build an expense tracker web app with Firebase and React
+- [JavaScript crash course: Firestore and Auth | JavaScript & Firebase](https://www.youtube.com/watch?v=knk5Fjrpde0) JavaScript crash course: Firestore and Auth | JavaScript & Firebase
+
 ## Git
 
 ## VsCode
@@ -120,7 +146,32 @@
 - [Getting Started with THREE.JS](https://www.youtube.com/watch?v=pUgWfqWZWmM) - Getting Started with THREE.JS
 - [Introduction to Three.js (with Sarah Drasner)](https://www.youtube.com/watch?v=mXcawneCRHY) - Introduction to Three.js (with Sarah Drasner)
 - [Three.js Tutorials
-  Wael Yasmina - Playlist](https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho) - Three.js Tutorials Wael Yasmina - Playlist
+  Wael Yasmina - Playlist](https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho) Three.js Tutorials Wael Yasmina - Playlist
+- [How to create animated shaders with three.js](https://www.youtube.com/watch?v=e2ntx-fyXaE) - How to create animated shaders with three.js
+- [Make Any Image 3D With React Three Fiber](https://www.youtube.com/watch?v=EWnZMFApCx4)Make Any Image 3D With React Three Fiber
+- [How to Create Awesome 3D Blob Animation With React Three Fiber | React & Three.js](https://www.youtube.com/watch?v=6YJ-2MvDqhc) - How to Create Awesome 3D Blob Animation With React Three Fiber | React & Three.js
+- [Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial](https://www.youtube.com/watch?v=0fYi8SGA20k) - Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial
+- [React 3D Portfolio Website with Three.js | Build and Deploy Responsive React Portfolio](https://www.youtube.com/watch?v=qALsVa-V9qo) - React 3D Portfolio Website with Three.js | Build and Deploy Responsive React Portfolio
+- [React Three Fiber in practice - Playlist](https://www.youtube.com/playlist?list=PLWP0narTpO8n9YwsTLVO7-vbIzLELrwwS) - React Three Fiber in practice - Playlist
+- [Three.js in practice - Playlist](https://www.youtube.com/playlist?list=PLWP0narTpO8lAmalqspXgv-x1pq9CHnvR) - Three.js in practice - Playlist
+- [Intermediate Three.js Tutorial - Create a Globe with Custom Shaders](https://www.youtube.com/watch?v=vM8M4QloVL0) - Intermediate Three.js Tutorial - Create a Globe with Custom Shaders
+
+## Shaders - GLSL
+
+- [NodeToy -- New Free Shader Editor](https://www.youtube.com/watch?v=UN8XLl2E87I&t=5s) - NodeToy -- New Free Shader Editor
+- [ShaderToy Tutorials - Playlist](https://www.youtube.com/playlist?list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - ShaderToy Tutorials - Playlist
+- [Shaders For Game Devs - Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z) - Shaders For Game Devs - Freya Holmér
+- [Math for Game Devs - Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF) - Math for Game Devs - Freya Holmér
+
+## Blender
+
+- [Turn 2D Images into 3D Objects with Monster Mash! (Free Web Tool)](https://www.youtube.com/watch?v=k043OByAG-4&list=PLX7EaSeYAsa7NghwDAAUAWNWfMx-X5z9O&index=12) - Turn 2D Images into 3D Objects with Monster Mash! (Free Web Tool)
+- [Blender Beginner Donut Tutorial - Playlist](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) - Blender Beginner Donut Tutorial - Playlist
+- [How to Make a Realistic Earth in Blender in 20 mins](https://www.youtube.com/watch?v=0YZzHn0iz8U) - How to Make a Realistic Earth in Blender in 20 mins
+- [Nature/Plants Blender Tutorials 🌲 🍄 🍃 - Playlist](https://www.youtube.com/playlist?list=PLsGl9GczcgBsbktTky8oarj22t0FAr4ve) - Nature/Plants Blender Tutorials 🌲 🍄 🍃 - Playlist
+- [Blender 3.5 Beginner Tutorial Series - Playlist](https://www.youtube.com/playlist?list=PL8eKBkZzqDiVvueu0ikzF1jVQWrgxma0U) - Blender 3.5 Beginner Tutorial Series - Playlist
+- [Blender Tutorials for BEGINNERS - Playlist](https://www.youtube.com/playlist?list=PLJrcFnBj2iIjU3Mi9f6rMxLm1ZPl7jjlp) - Blender Tutorials for BEGINNERS - Playlist
+- [HARDOPS and BOXCUTTER tutorials for Blender - Playlist](https://www.youtube.com/playlist?list=PLJrcFnBj2iIgOelGfcdz5ZKof-D4LSphA) - HARDOPS and BOXCUTTER tutorials for Blender - Playlist
 
 ## Conference Talks
 
@@ -129,7 +180,7 @@
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc) - The Power of JS Generators by Anjana Vakil
 - [Harijs Deksnis - Advanced TypeScript - JSworld 2021](https://www.youtube.com/watch?v=GDs76It5iGM) - Harijs Deksnis - Advanced TypeScript - JSworld 2021
 - [The introduction to React you've been missing - Kent C. Dodds](https://www.youtube.com/watch?v=SAIdyBFHfVU) - The introduction to React you've been missing - Kent C. Dodds
-- - [Managing React Application State Management - Talk by Kent C. Dodds](https://www.youtube.com/watch?v=zpUMRsAO6-Y) - Managing React Application State Management - Talk by Kent C. Dodds
+- [Managing React Application State Management - Talk by Kent C. Dodds](https://www.youtube.com/watch?v=zpUMRsAO6-Y) - Managing React Application State Management - Talk by Kent C. Dodds
 - [Deconstructing React || Tejas Kumar](https://www.youtube.com/watch?v=f2mMOiCSj5c) - Deconstructing React || Tejas Kumar
 - [React deep dive: 6 things you didn't know - Joel Denning](https://www.youtube.com/watch?v=BXTU4NmMu8A) - React deep dive: 6 things you didn't know - Joel Denning
 - [The Future of Web Animation by Sarah Drasner](https://www.youtube.com/watch?v=FDO2jeOTUbU) - The Future of Web Animation by Sarah Drasner
@@ -140,6 +191,7 @@
 - [Talks and workshops from Kent C. Dodds Playlist](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf) - Talks and workshops from Kent C. Dodds Playlist
 - [Best JavaScript Lectures Playlist](https://www.youtube.com/playlist?list=PLRCsGa8ABOh15Mhu7jv1gxG7-II3b4fWr) - Best JavaScript Lectures Playlist
 - [Reactathon 2022 Day 2 Livestream](https://www.youtube.com/watch?v=Ck-e3hd3pKw&list=PLX7EaSeYAsa6lNVOTW1JSRlNOYJUC7Oqa&index=3&t=17912s) - Reactathon 2022 Day 2 Livestream
+- [When To Fetch: Remixing React Router - Ryan Florence](https://www.youtube.com/watch?v=95B8mnhzoCM&t=944s) - When To Fetch: Remixing React Router - Ryan Florence
 
 ## ML/AI
 
